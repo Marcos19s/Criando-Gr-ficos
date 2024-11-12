@@ -46,13 +46,14 @@ nav a:hover {
     transition: transform 0.1s;
 }
 
+.grafico {
+    margin-top: 3rem;
+}
+
 .graficos-container {
     margin: 5rem;
 }
 
-.grafico {
-    margin-top: 3rem;
-}
 .graficos-container__texto {
     font-size: 1.3rem;
     text-align: center;
